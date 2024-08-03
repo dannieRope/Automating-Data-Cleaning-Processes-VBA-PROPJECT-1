@@ -56,7 +56,7 @@ Result
 ![Screenshot 2024-08-03 150722](https://github.com/user-attachments/assets/101c4fff-54ab-49e5-aeff-835c2c8bb175)
 
 
-**Step 1.  Extract Email from the Referrer Email Column**
+**Step 2.  Extract Email from the Referrer Email Column**
 
 The formatting of the referrer email column is inconsistent.
 some of the emails are enclosed in <> and others enclosed in []. A user-defined function "EmailExtract()" was created to help extract the correct email format as shown below. 
@@ -70,7 +70,38 @@ Result
 
 ![Screenshot 2024-08-03 151747](https://github.com/user-attachments/assets/27cc0ed6-ce4c-4790-9b93-f18015fee845)
 
-**Step 1.  Extract Email from the Referrer Email Column**
+**Step 3.  Extracting the Id number and Formating the Date Column**
+
+The the id before the number was remove leaving only the number on the customer ID column also
+the date format in Date column is not consistent. It is made up of "dd-mm-yyyy" and "dd/mm/yyyy" format. Changed all dateFormat to dd/mm/yyyy
+
+![Screenshot 2024-08-03 152731](https://github.com/user-attachments/assets/37c9fd30-f2b2-472a-918f-d6a3a85f877c)
+
+Result
+
+![Screenshot 2024-08-03 153235](https://github.com/user-attachments/assets/146798b1-f2f3-44aa-afc4-18d0f4d6b811)
+
+**Step 4.  Removing outliers in Sales Amount column**
+
+The sales amount column consists of 187 outliers which was removed. 
+
+![Screenshot 2024-08-03 153434](https://github.com/user-attachments/assets/cd3bdbb6-8031-4a30-a9dd-c7b7119de70f)
+
+
+Result
+![Screenshot 2024-08-03 153835](https://github.com/user-attachments/assets/fe2ef971-6a8e-45f8-88d5-53a117d1b79e)
+
+**Step 5.  Creating a button to run the code when click**
+
+A button was created to enhance the user experience by allowing data cleaning to be performed with a simple button click within the spreadsheet
+
+![Screenshot 2024-08-03 155039](https://github.com/user-attachments/assets/5b6a93dd-5047-4e13-8641-7140a4b774d6)
+
+## FINAL RESULT
+
+
+
+
 
 
 
