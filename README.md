@@ -91,7 +91,7 @@ The sales amount column consists of 187 outliers which was removed.
 Result
 ![Screenshot 2024-08-03 153835](https://github.com/user-attachments/assets/fe2ef971-6a8e-45f8-88d5-53a117d1b79e)
 
-**Step 5.  Creating a button to run the code when click**
+**Step 5.  Creating a button to run the code when clicked**
 
 A button was created to enhance the user experience by allowing data cleaning to be performed with a simple button click within the spreadsheet
 
