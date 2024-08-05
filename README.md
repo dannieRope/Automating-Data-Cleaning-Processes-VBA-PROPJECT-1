@@ -99,6 +99,18 @@ A button was created to enhance the user experience by allowing data cleaning to
 
 ## FINAL RESULT
 
+### Video Demo
+Watch a demo video here: https://www.youtube.com/watch?v=fq9q-0oTQCM
+
+Here is how the cleaned data looks like
+![Screenshot 2024-08-05 100940](https://github.com/user-attachments/assets/754859cf-f1f0-4fa6-a5ec-0e36522f76e2)
+
+Find the VBA script here
+Find the Workbook here 
+
+# THANKS FOR READING 
+
+
 
 
 
